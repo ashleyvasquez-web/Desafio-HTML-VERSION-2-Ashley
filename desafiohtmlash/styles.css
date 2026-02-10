@@ -22,7 +22,7 @@
     margin-bottom: 30px;
  }
  header h1{
-    color: hsl(300, 43%, 22%);
+    color: hsl(300, 99%, 30%);
     font-size: 30px;
     font-weight: 700;
     line-height: 30px;
@@ -97,7 +97,7 @@
     grid-column: 2 / 3;
  }
  .cards .status{
-    color: hsl(333, 80%, 67%);
+    color: hsl(333, 73%, 42%);
     grid-column: 2 / 3;
  }
  .cards p{
